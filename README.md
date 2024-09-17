@@ -1,5 +1,7 @@
 # Ninja vs EVILCORP
 
+https://arweave.net/LqryY1OgQ-2LKky7sgOTkPrz7mCpfsPLnTN4FkHeFrw
+
 <img src="/assets/main-menu-1600x800.png" width="400"> <img src="/assets/gameplay-1-1600x800.png" width="400">
 
 PLEASE USE nodejs v20.14.0 TO BUILD THIS PROJECT.
