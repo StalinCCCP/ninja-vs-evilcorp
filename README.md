@@ -2,6 +2,8 @@
 
 <img src="/assets/main-menu-1600x800.png" width="400"> <img src="/assets/gameplay-1-1600x800.png" width="400">
 
+PLEASE USE nodejs v20.14.0 TO BUILD THIS PROJECT.
+PLEASE REPLACE homebrew PACKAGE MANAGER COMMAND IN Makefile WITH THE CORRESPONDING ONE ON YOUR OS TO MAKE IT WORK.
 
 **Ninja vs EVILCORP** is a platformer inspired by Super Meat Boy, Stealth Bastard Deluxe, and other great similar games.
 The goal is to scale a tower to find the evil plans without getting spotted.
